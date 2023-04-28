@@ -1,0 +1,11 @@
+p {
+   color: pink;
+}
+
+.parent>.child1 {
+   color: blue
+}
+
+a[href="#blog"] {
+   color: #25c42d;
+}
