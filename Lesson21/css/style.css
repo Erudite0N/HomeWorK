@@ -1,0 +1,28 @@
+.greet__title {
+   font-size: 5rem;
+   margin-bottom: 50px;
+}
+
+.greet__text {
+   font-size: 2rem;
+   line-height: 150%;
+   margin-bottom: 50px;
+}
+
+/* -------------------------------------------------------------*/
+
+/* @font-face {
+   font-family: "Beer money";
+   font-weight: 400;
+   font-style: normal;
+   src:local("Beer money"),
+      local("Beermoney"),
+      url("../fonts/beermoney.woff2") format(".woff2"),
+      url("../fonts/beermoney.woff") format(".woff"),
+      url("../fonts/beermoney.eot") format(".eot");
+   font-display: swap;
+} */
+
+.greet__text-1 {
+   font-family: 'Open Sans', sans-serif;
+}
