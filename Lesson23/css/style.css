@@ -1,0 +1,17 @@
+.wrapper {
+  padding: 100px;
+  height: 50vh;
+}
+
+.block {
+  height: 150%;
+  border-radius: 3px;
+  box-shadow: 0 0 10px rgb(0, 0, 0);
+  background: url(../mRtqaV0.jpg) 50% 50% / auto no-repeat, linear-gradient(#882700, #cf7105);
+}
+.block1 {
+  height: 150%;
+  border-radius: 3px;
+  box-shadow: 0 0 10px rgb(0, 0, 0);
+  background: url(../11.jpg) 50% 50% / cover;
+}
