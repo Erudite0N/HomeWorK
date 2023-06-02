@@ -1,0 +1,12 @@
+.block1 {
+  font-size: 2rem;
+}
+
+.text1 {
+  background-color: #702b91;
+  padding: 50px 50px 25px 50px;
+  margin: 25px;
+  max-height: 100px;
+  max-width: 50vw;
+  overflow: scroll;
+}
